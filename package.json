@@ -34,7 +34,7 @@
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
     "ytdl-core": "npm:@distube/ytdl-core",
     "@bochilteam/scraper": "^4.2.4",
-    "@google/generative-ai":"^0.1.3",
+    "@google/generative-ai":"^0.24.1",
     "@xaviabot/fb-downloader": "^1.0.14",
     "aptoide-scraper": "^1.0.1",
     "api-dylux" : "^1.8.5",
